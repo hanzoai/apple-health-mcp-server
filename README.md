@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="apple-health-mcp-server" width="880"></p>
+
 <a name="readme-top"></a>
 
 <div align="center">

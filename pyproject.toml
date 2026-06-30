@@ -1,5 +1,5 @@
 [project]
-name = "apple-health-mcp-server"
+name = "hanzo-apple-health-mcp"
 version = "0.1.0"
 description = "MCP server for Apple Health data"
 requires-python = ">=3.13"
